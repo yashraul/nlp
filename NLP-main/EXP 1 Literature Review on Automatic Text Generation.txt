@@ -1,0 +1,8 @@
+Literature review on Automatic Text Generation
+Title: Automatic Text Generation
+Author: Pranjal Srivastava
+Index Terms: Natural Language Processing, Machine Learning, Text Generation
+
+Summary:
+Automatic text generation and automatic text summarization are two research areas that have a lot in common. Both areas have the goal of creating a readable and coherent text for a specific user. Many of the research problems are valid in both areas. For example user modeling and discourse structure. In automatic text generation, a computer automatically creates natural language, e.g. English, Chinese, or Greek, from a computational representation. In automatic text summarization, a computer creates automatically an abstract or summary from an original man-made source text. 
+The process of explaining in natural language is complex and fascinating. The Speaker needs knowledge of the domain to be explained, knowledge about the Hearer's knowledge of the domain; and knowledge of what the Hearer wants or needs to know so-called user modeling. When a Speaker wants to generate natural language, after considering the three previous points, she has to perform several processes: she has to make a content determination from her abundant knowledge base, plan and organize the information to construct a coherent organization, decide on sentence structure and scope, sentence planning includes also aggregation and finally generate the surface form which involves the realization of the syntactic structures and lexical choice.
